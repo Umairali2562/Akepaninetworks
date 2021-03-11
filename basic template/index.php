@@ -6,7 +6,6 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <title>Aekpani-Networks</title>
 </head>
 <body>
@@ -130,62 +129,36 @@
 <footer class="footsy">
     <div class="row">
         <div class="col-3 mobilestack">
-
-            <div class="footer-item-for-style">
-            <h1>COMPUTERS </h1>
-
-            <p>Best Airport parking prices at all Major UK Airports. including Heathrow, Gatwick, Luton,
-                Stansted, Birmingham, Manchester Book through budgetairportparking.co.uk& save £££s</p>
-           </div>
-        </div>
-
-
-        <div class="col-3 mobilestack">
-            <div class="footer-item-for-style">
-            <h1>Quick Links</h1>
-                <div class="border-for-style"></div>
+            <h1>Company</h1>
             <ul>
-                <li><a href="">About</a></li>
-                <li><a href="">blog</a></li>
-                <li><a href="">career</a></li>
+                <li>About</li>
+                <li>Blog</li>
+                <li>Careers</li>
             </ul>
         </div>
-        </div>
         <div class="col-3 mobilestack">
-            <div class="footer-item-for-style">
-            <h1>Tutorials</h1>
-                <div class="border-for-style"></div>
+            <h1>Company</h1>
             <ul>
-               <li><a href="">About</a></li>
-               <li><a href="">blog</a></li>
-               <li><a href="">career</a></li>
-
+                <li>About</li>
+                <li>Blog</li>
+                <li>Careers</li>
             </ul>
         </div>
+        <div class="col-3 mobilestack">
+            <h1>Company</h1>
+            <ul>
+                <li>About</li>
+                <li>Blog</li>
+                <li>Careers</li>
+            </ul>
         </div>
         <div class="col-3 mobilestack">
-            <div class="footer-item-for-style">
-            <h1>Contact Us</h1>
-                <div class="border-for-style"></div>
+            <h1>Company</h1>
             <ul>
-
-                <li><a href=""> <i class="fa fa-map-marker" aria-hidden="true"></i>Aekpani Networks , karachi</a></li>
-                <li><a href=""> <i class="fa fa-phone" aria-hidden="true"></i>+923332123889</a></li>
-                <li><a href=""> <i class="fa fa-envelop" aria-hidden="true"></i>Umairali2562@gmail.com</a></li>
-
+                <li>About</li>
+                <li>Blog</li>
+                <li>Careers</li>
             </ul>
-                <div class="social-media">
-                <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                <a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                </div>
-        </div>
-
-           <div class="footer-bottom">
-            Copyright &copy; Computers & Codes 2019 All rights Reserved.
-           </div>
-
         </div>
     </div>
 </footer>
