@@ -104,6 +104,15 @@
 
     <hr>
     <div class="container">
+        <div class="row">
+
+            <div class="col-5">
+                <div class="myimage">
+                    <img src="image.jpg">
+                </div>
+            </div>
+
+
         <div class="col-7">
             <article>
                 <p>Best Airport parking prices at all Major UK Airports.
@@ -111,9 +120,50 @@
                     save £££s</p>
             </article>
         </div>
-    </div>
 
+
+    </div>
+  </div>
 </div>
+
+<footer class="footsy">
+    <div class="row">
+        <div class="col-3 mobilestack">
+            <h1>Company</h1>
+            <ul>
+                <li>About</li>
+                <li>Blog</li>
+                <li>Careers</li>
+            </ul>
+        </div>
+        <div class="col-3 mobilestack">
+            <h1>Company</h1>
+            <ul>
+                <li>About</li>
+                <li>Blog</li>
+                <li>Careers</li>
+            </ul>
+        </div>
+        <div class="col-3 mobilestack">
+            <h1>Company</h1>
+            <ul>
+                <li>About</li>
+                <li>Blog</li>
+                <li>Careers</li>
+            </ul>
+        </div>
+        <div class="col-3 mobilestack">
+            <h1>Company</h1>
+            <ul>
+                <li>About</li>
+                <li>Blog</li>
+                <li>Careers</li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+
 
 <script>
     function dropdownMenu(){

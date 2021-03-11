@@ -21,7 +21,8 @@ p{
 }
 
 article p{
-
+font-size: 35px;
+    padding: 20px;
 }
 
 .container{
@@ -153,6 +154,19 @@ background-color: #fff;
     box-shadow: 0 0 0 1px rgba(0,0,0,.15),
     0 2px 3px 0 rgba(0,0,0,.1);
 }
+div.myimage{
+    padding-left: 10px;
+}
+
+div.myimage img{
+    display: block;
+    margin: auto;
+    width: 100%;
+
+    box-shadow: -2px -2px 10px 2px rgba(0,0,0,.15),
+    2px 2px 17px 2px rgba(0,0,0,.1);
+}
+
 button{
     font-size: 32px;
     font-weight: bolder;
@@ -180,6 +194,31 @@ div.icon{
 .rightside-col{
     margin-left: 15%;
 }
+
+
+footer.footsy{
+  background-color: #1c007a;
+    padding-left: 10%;
+
+}
+
+footer.footsy h1{
+    color: #fff;
+    font-size:35px;
+}
+footer.footsy ul{
+   list-style: none;
+    text-align: left;
+    padding-left: 0;
+}
+footer.footsy ul li{
+  color:#fff;
+    font-size: 22px;
+    line-height: 1.2;
+}
+
+
+
 /*##################### Mobile ##########################*/
 
 @media screen and (max-width: 680px) {
@@ -212,16 +251,35 @@ div.icon{
     h1.section2Header{
         font-size:55px;
     }
+    article p{
+        font-size:25px;
+    }
+
+    .col-7,
     .col-6,
-    .col-4 {
+    .col-5,
+    .col-4{
         width: 100%;
         margin: 0;
+    }
+
+    div.mobilestack{
+        width: 50%;
+        display: block;
     }
 
        div.box {
          padding: 5px;
         display: block;
     }
+
+    div.myimage {
+        margin: 10px;
+    }
+       div.myimage img{
+           width: 100%;
+
+       }
 
     div.leftside-col,
     div.rightside-col{
